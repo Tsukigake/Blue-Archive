@@ -24,9 +24,7 @@ MITライセンスを守ってほしい。利用は自由！
 
 githubのこと知ってるひとは issues  
 
-githubわかんないーってひとは twitter(x) の dm　　
-
-にお願いします！
+githubわかんないーってひとは twitter(x) の dm　にお願いします！
 
 リスポンスはtwitterのほうが早いです。たぶん
 
