@@ -1,6 +1,6 @@
 # ブルーアーカイブ
 
-_月駆が作ったブルアカのコスプレで使う小物とかのデータ置き場_
+**_ブルアカのヘイローの3Dデータ置き場_**
 
 ## ん、中にあるデータ
 
@@ -18,31 +18,7 @@ _月駆が作ったブルアカのコスプレで使う小物とかのデータ�
 
 ・小鳥遊ホシノ : ヘイロー
 
-## ん、利用について
-
-MITライセンスを守ってほしい。利用は自由！
-
-ライセンス全文 : https://opensource.org/license/mit
-
-ライセンス全文（日本語訳）：https://licenses.opensource.jp/MIT/MIT.html
-
-## ん、データの使い方
-
-3Dプリンターとかレーザー加工機で使えるデータだよ！
-
-詳しくはwikiに書く（ちょっと待つべき）
-
-## ん、要望とか質問とか
-
-githubのこと知ってるひとは issues  
-
-githubわかんないーってひとは twitter(x) の dm　にお願いします！
-
-リスポンスはtwitterのほうが早いです。たぶん
-
-## ん、コンタクト
-
-・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
+## ん、ライセンス（MITライセンス）
 
 ---
 
@@ -57,5 +33,11 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
+
+## ん、コンタクト
+
+・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
+
+
 
 
